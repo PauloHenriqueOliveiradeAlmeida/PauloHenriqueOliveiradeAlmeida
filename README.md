@@ -1,25 +1,48 @@
 # Olá, seja Bem-Vindo ao Meu Perfil! 👋
-Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!<br>
-Tenho 16 anos e atualmente estou cursando **Técnico em Informática para Internet** na _ETEC_ de Itapeva (SP)<br>
-Tenho, principalmente trabalhado com:
-* HTML5
-* JavaScript
-* CSS3
-* PHP
-* MySql
 
-Também utilizo _Bootstrap_ e tenho um pouco de experiência com Wordpress e estou aprendendo React, Next e Node.<br>
-Além do desenvolvimento WEB também já explorei a criação de _apps_ Desktop em C++ com o Framework QT e desenvolvimento de _games_ em Python pela UPBGE e, em GDScript pela Godot.<br>
+<a href="https://linkedin.com/in/paulo-henrique-oliveira-de-almeida">![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)</a> <a href="mailto:paulo333henrique00@gmail.com">![email](https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge)</a>
 
-Tenho interesse em me tornar Full-Stack pois acho interessante tanto Front-End, quanto Back-End porém, tenho mais facilidade como desenvolvedor Front-End.<br>
-Gosto muito de Estudar Programação e desenvolver sites simples para passar o tempo, também gosto de assistir vídeo aulas sobre determinado assunto<br>
+![numero de visitas](https://komarev.com/ghpvc/?username=PauloHenriqueOliveiradeAlmeida&style=for-the-badge)
 
-Alguns sites que desenvolvi podem ser listados abaixo:
+---
+Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!😁
 
-* [Nagoya Topografia - Serviços de Topografia e Geodésia](https://www.nagoyatopografia.com) - Este foi o Primeiro Site publicado que desenvolvi.
-* [AgriFrost - Previna-se Contra Geadas](https://agrifrost.vercel.app) - Site feito para a 6ª edição da FeCEESP utilizando o serviço de hospedagem da Vercel.
-* [https://doisirmao.com.br](https://www.doisirmao.com.br) - E-Commerce para venda de acessórios para automobilísticos utilizando o plugin WooCommerce do Wordpress.
 
-No Tempo livre gosto de ler, assistir vídeos e tocar bateria.<br>
+Sou **Programador Júnior** e tenho experiência tanto com **Front-end** quanto com **Back-end**, embora mê dê mais bem no Front.
 
-E então? Já deu para você conhecer um pouco sobre mim, porém, eu ainda não sei nada sobre você, então, que tal me mandar uma mensagem?
+No Tempo livre gosto de desenhar, assistir vídeos e tocar bateria.<br>
+
+---
+
+Minha Stack:
+<div>
+
+![Stack](https://img.shields.io/badge/html5-red?logo=html5&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/php-blue?logo=php&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/python-blue?logo=python&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/reactjs-blue?logo=react&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/nodejs-green?logo=node.js&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/mariadb-black?logo=mariadb&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/sqlite-gray?logo=sqlite&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/wordpress-blue?logo=wordpress&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/git-red?logo=git&logoColor=white&style=for-the-badge)
+</div>
+
+---
+
+<div>
+
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHenriqueOliveiradeAlmeida&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueOliveiradeAlmeida&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<img src="/971.jpg">
