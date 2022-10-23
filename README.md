@@ -21,7 +21,7 @@ Minha Stack:
 ![Stack](https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![Stack](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![Stack](https://img.shields.io/badge/php-blue?logo=php&logoColor=white&style=for-the-badge)
-![Stack](https://img.shields.io/badge/python-blue?logo=python&logoColor=white&style=for-the-badge)
+![Stack](https://img.shields.io/badge/python-yellow?logo=python&logoColor=white&style=for-the-badge)
 ![Stack](https://img.shields.io/badge/reactjs-blue?logo=react&logoColor=white&style=for-the-badge)
 ![Stack](https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![Stack](https://img.shields.io/badge/nodejs-green?logo=node.js&logoColor=white&style=for-the-badge)
