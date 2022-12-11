@@ -2,8 +2,6 @@
 
 <a href="https://linkedin.com/in/paulo-henrique-oliveira-almeida">![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)</a> <a href="mailto:paulo333henrique00@gmail.com">![email](https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge)</a>
 
-![numero de visitas](https://komarev.com/ghpvc/?username=PauloHenriqueOliveiradeAlmeida&style=for-the-badge)
-
 ---
 Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!😁
 
