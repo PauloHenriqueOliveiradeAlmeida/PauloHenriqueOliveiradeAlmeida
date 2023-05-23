@@ -6,7 +6,7 @@
 Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!😁
 
 
-Sou **Programador Júnior** e tenho experiência tanto com **Front-end** quanto com **Back-end**, embora mê dê mais bem no Front.
+Sou **Desenvolvedor Fullstack Júnior** com experiência com Freelancer, no momento busco uma oportunidade de adentrar no mercado de trabalho. 
 
 No Tempo livre gosto de desenhar, escutar música, assistir vídeos e tocar bateria.<br>
 
