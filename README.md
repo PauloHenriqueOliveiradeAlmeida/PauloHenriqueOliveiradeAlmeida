@@ -6,7 +6,7 @@
 Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!😁
 
 
-Sou **Desenvolvedor Fullstack Júnior** com experiência como **Freelancer**, no momento busco uma oportunidade de adentrar no mercado de trabalho. 
+Sou **Desenvolvedor Fullstack Júnior** com experiência como **Freelancer** e estagiário no Instituto Edutech21.
 
 No Tempo livre gosto de desenhar, escutar música, assistir vídeos e tocar bateria.<br>
 
