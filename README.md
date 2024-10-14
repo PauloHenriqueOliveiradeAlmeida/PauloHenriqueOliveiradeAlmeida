@@ -6,7 +6,7 @@
 Me Chamo **Paulo Henrique**, e estou muito feliz de saber de sua visita!😁
 
 
-Sou **Desenvolvedor Fullstack Júnior** na Epiousion IT.
+Sou **Desenvolvedor Fullstack** na Epiousion IT.
 
 No Tempo livre gosto de desenhar, escutar música, ler e tocar bateria.<br>
 
